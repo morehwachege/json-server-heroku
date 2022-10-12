@@ -1,16 +1,18 @@
 {
-  "posts":[
+  "users": [
     {
-      "id" : 0,
-      "title": "First post!",
-      "content" : "My first content!"
-    }
-  ],
-  "comments" : [
+      "id": 1,
+      "email": "jamescorden@gmail.com",
+      "password": "hackme"
+    },
     {
-      "id": 0,
-      "content": "Wow such content!",
-      "username": "zero_cool"
+      "email": "jamesmaina@gmail.com",
+      "password": "maina",
+      "id": 2
+    },
+    {
+      "email": "joejonas@gmail.com",
+      "password": "jonas",
+      "id": 3
     }
   ]
-}
